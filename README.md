@@ -1,11 +1,15 @@
 # Creative-Coding-12.24-Homework
 That is wise. Were I to invoke logic, however, logic clearly dictates that the needs of the many outweigh the needs of the few.
 — Spock
+
 A particle system is a collection of many many minute particles that together represent a fuzzy object. Over a period of time, particles are generated into a system, move and change from within the system, and die from the system.
 —William Reeves
+
 Keywords:粒子系统；吸引力；集群
+
 Goal：
 有五种不同颜色的圆点粒子作无序运动。当颜色一样的圆点粒子相距较近时，会靠近并且吸引到一起，此时集群的粒子会增大半径，用粒子系统来模拟较为复杂的系统现象。
+
 How to achieve：
 1. 定义数组、画布、颜色等
 2. 初始生成五个不同颜色的圆点，每0.1秒产生一个新的点，粒子运动速率相同
